@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "name": "aa700qauser",
+      "username": "Kiran",
+      "mail": "ajaysony765@gmail.com",
+      "phone": "854125647",
+      "id": 1
+    },
+    {
+      "name": "testsalespad",
+      "username": "cgampala",
+      "mail": "varunroy654@gmail.com",
+      "phone": "8881254789",
+      "id": 2
+    }
+  ]
+}
